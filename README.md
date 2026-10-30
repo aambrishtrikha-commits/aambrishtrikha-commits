@@ -1,105 +1,56 @@
 <div align="center">
-
-<img src="./assets/appd-profile-banner.svg" alt="AppD AI: Intelligence that gets to work" width="100%" />
+<img src="./assets/appd-hero.svg" width="100%" alt="APPD AI. LESS TALK. MORE DONE." />
 
 <br/>
 
-**Business automation · AI voice agents · WhatsApp experiences · Connected customer journeys**
+**AI-led customer conversations. Connected operations. Experiences people remember.**
 
-We build practical systems that help businesses respond faster, reduce repetitive work and convert more opportunities into measurable outcomes.
-
-[**Explore AppD AI**](https://appd.ai) &nbsp;·&nbsp; [**Discuss a project**](mailto:ambrish@appd.ai) &nbsp;·&nbsp; [**View capabilities**](#what-we-build)
-
+<a href="https://appd.ai"><b>EXPLORE APPD ↗</b></a> &nbsp;&nbsp; / &nbsp;&nbsp; <a href="mailto:ambrish@appd.ai"><b>START A CONVERSATION ↗</b></a>
 </div>
 
 <br/>
 
-## What we build
+<img src="./assets/appd-capabilities.svg" width="100%" alt="Voice AI, WhatsApp, CRM operations and GlidePath" />
 
-| Capability | Business application |
-| :--- | :--- |
-| **AI voice agents** | Inbound enquiries, lead qualification, follow-ups, appointment coordination and customer support |
-| **WhatsApp automation** | Conversational journeys, guided onboarding, service updates and sales follow-through |
-| **CRM & workflow integration** | Connected lead records, routing, pipeline visibility and operational reporting |
-| **AI-enabled business systems** | Revenue diagnostics, information retrieval and assisted operations |
-| **Interactive brand experiences** | Gesture-led digital displays, QR activation and measurable audience engagement |
-| **Digital solutions** | Websites, portals, dashboards and business-specific product development |
+<br/>
 
-## Selected solutions
+### The brief is simple.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> **Make every enquiry count. Make every handoff smoother. Make the system do the repetitive work.**
 
-### 01 / Voice intelligence
-Multilingual business conversations for qualification, support and follow-through.
+AppD AI builds practical business technology at the point where customer experience meets daily operations. From the first call to the final follow-up, the priority is clear: **less friction, faster action, measurable outcomes.**
 
-**Focus:** Response speed, lead handling and human handoff.
+### Selected work / 01–04
 
-[View voice-agent collateral](https://drive.google.com/file/d/12fmO-zPJ7SMPCdqssIkMXCZYgcugZbVc/view)
+| | |
+|:---|:---|
+| **01 · VOICE, WITHOUT THE WAIT** | Multilingual AI voice agents for qualification, enquiry handling, appointment coordination and customer support. **[See the voice capability →](https://drive.google.com/file/d/12fmO-zPJ7SMPCdqssIkMXCZYgcugZbVc/view)** |
+| **02 · CONVERSATIONS THAT CONTINUE** | WhatsApp flows for onboarding, activation, lead follow-ups and connected customer support. **[Explore messaging →](https://drive.google.com/file/d/1Mmmj7ZGkcwD752QrD5PmP7roSpyqSOyW/view)** |
+| **03 · OPERATIONS, IN SYNC** | CRM integrations, dashboards, workflow automation and decision-support systems built around the business. |
+| **04 · THE SCREEN IS JUST THE START** | **GlidePath** connects gesture-led digital displays with QR and WhatsApp journeys. **[Explore GlidePath →](https://drive.google.com/file/d/1GwPkedDxxF_jCOWmQeP3oKUFj_JCMKoJ/view)** |
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### 02 / Connected messaging
-WhatsApp journeys that connect customer intent to the next operational action.
+### Built for the real world.
 
-**Focus:** Enquiries, activation, reminders and CRM continuity.
+**EDUCATION** / **RETAIL** / **REAL ESTATE** / **HOSPITALITY** / **PROFESSIONAL SERVICES** / **PUBLIC-FACING OPERATIONS**
 
-[View WhatsApp collateral](https://drive.google.com/file/d/1Mmmj7ZGkcwD752QrD5PmP7roSpyqSOyW/view)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03 / GlidePath
-Interactive digital-out-of-home experiences connecting physical attention to measurable customer interaction.
-
-**Focus:** Engagement, QR journeys and branded experiences.
-
-[View GlidePath product sheet](https://drive.google.com/file/d/1GwPkedDxxF_jCOWmQeP3oKUFj_JCMKoJ/view)
-
-</td>
-<td width="50%" valign="top">
-
-### 04 / Operational intelligence
-Connected dashboards and decision workflows built around actual operating needs.
-
-**Focus:** Visibility, consistency and reduced manual coordination.
-
-[Explore solution portfolio](https://drive.google.com/file/d/1wi_AnPkisN_oDNkB1H-_M24FdfmSmxIh/view)
-
-</td>
-</tr>
-</table>
-
-## How we approach delivery
-
-**Discover the bottleneck** → **Define the measurable result** → **Build the workflow** → **Connect the systems** → **Measure and improve**
-
-Our work is guided by business outcomes rather than a predetermined technology stack.
-
-## Areas of work
-
-**Education & training** · **Retail & commerce** · **Real estate** · **Professional services** · **Hospitality** · **Public-facing services**
-
-## About
-
-**Aambrish Trikha** works across growth strategy, business automation and digital product execution at **AppD AI**.
-
-This GitHub space shares selected technical work and represents AppD AI's wider solution portfolio. Client implementations, sensitive integrations and proprietary materials are not published here.
+We focus on the transaction, the decision, the customer, and the operational bottleneck. Technology follows the problem. Not the other way around.
 
 ---
 
+### The human behind the systems
+
+**Aambrish Trikha** · Growth strategy, investments and business automation at AppD AI.
+
+This GitHub profile is a public introduction to the work and thinking behind AppD. Proprietary customer deployments and sensitive integrations remain private.
+
 <div align="center">
 
-### Build something useful.
+### GOT A BOTTLENECK WORTH FIXING?
 
-**A clear commercial problem. A connected system. A result you can measure.**
+**[appd.ai](https://appd.ai)** &nbsp;&nbsp;·&nbsp;&nbsp; **[ambrish@appd.ai](mailto:ambrish@appd.ai)**
 
-[Website](https://appd.ai) &nbsp;·&nbsp; [Email](mailto:ambrish@appd.ai) &nbsp;·&nbsp; [GitHub](https://github.com/aambrishtrikha-commits)
-
-<sub>© 2026 AppD AI. Brand and project assets remain with their respective owners.</sub>
+<sub>APPD AI · BUILD FOR OUTCOMES · © 2026</sub>
 
 </div>
